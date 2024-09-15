@@ -1,6 +1,8 @@
 # Synthy by Evan Escobar
 Music toy and instrument app using AudioKit v5
 
+https://apps.apple.com/app/synthy/id6450637444
+
 This is a simple synth app that is built using Swift in Xcode 14.3 and AudioKit v5. 
 
 The app uses 4 groups of 4 oscillators - one sine wave oscillator that always plays the desired frequency, but an octave lower, two triangle oscillators that play the desired frequency or an adjusted frequency that depends on the original, and one fm oscillator that functions like the triangle oscillators. Four groups allows four different notes to be played at the same time, with each note having the richness of four oscillators. 
