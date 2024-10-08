@@ -1,5 +1,5 @@
 # Synthy by Evan Escobar
-Music toy and instrument app using AudioKit v5
+Virtual music instrument  using AudioKit v5
 
 https://apps.apple.com/app/synthy/id6450637444
 
